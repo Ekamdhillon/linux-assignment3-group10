@@ -1,0 +1,14 @@
+C:\linux-assignment3-group10\LinuxAssignment3App\bin\Debug\net9.0\LinuxAssignment3App.exe
+C:\linux-assignment3-group10\LinuxAssignment3App\bin\Debug\net9.0\LinuxAssignment3App.deps.json
+C:\linux-assignment3-group10\LinuxAssignment3App\bin\Debug\net9.0\LinuxAssignment3App.runtimeconfig.json
+C:\linux-assignment3-group10\LinuxAssignment3App\bin\Debug\net9.0\LinuxAssignment3App.dll
+C:\linux-assignment3-group10\LinuxAssignment3App\bin\Debug\net9.0\LinuxAssignment3App.pdb
+C:\linux-assignment3-group10\LinuxAssignment3App\obj\Debug\net9.0\LinuxAssignment3App.GeneratedMSBuildEditorConfig.editorconfig
+C:\linux-assignment3-group10\LinuxAssignment3App\obj\Debug\net9.0\LinuxAssignment3App.AssemblyInfoInputs.cache
+C:\linux-assignment3-group10\LinuxAssignment3App\obj\Debug\net9.0\LinuxAssignment3App.AssemblyInfo.cs
+C:\linux-assignment3-group10\LinuxAssignment3App\obj\Debug\net9.0\LinuxAssignment3App.csproj.CoreCompileInputs.cache
+C:\linux-assignment3-group10\LinuxAssignment3App\obj\Debug\net9.0\LinuxAssignment3App.dll
+C:\linux-assignment3-group10\LinuxAssignment3App\obj\Debug\net9.0\refint\LinuxAssignment3App.dll
+C:\linux-assignment3-group10\LinuxAssignment3App\obj\Debug\net9.0\LinuxAssignment3App.pdb
+C:\linux-assignment3-group10\LinuxAssignment3App\obj\Debug\net9.0\LinuxAssignment3App.genruntimeconfig.cache
+C:\linux-assignment3-group10\LinuxAssignment3App\obj\Debug\net9.0\ref\LinuxAssignment3App.dll

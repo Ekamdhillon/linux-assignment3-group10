@@ -1,0 +1,44 @@
+[
+  {
+    "command": "ls",
+    "description": "Lists files and directories in the current path.",
+    "example": "ls -l",
+    "category": "File Management"
+  },
+  {
+    "command": "cd",
+    "description": "Changes the current working directory.",
+    "example": "cd /home",
+    "category": "Navigation"
+  },
+  {
+    "command": "mkdir",
+    "description": "Creates a new directory.",
+    "example": "mkdir newfolder",
+    "category": "File Management"
+  },
+  {
+    "command": "rm",
+    "description": "Deletes a file or directory.",
+    "example": "rm file.txt",
+    "category": "File Management"
+  },
+  {
+    "command": "touch",
+    "description": "Creates an empty file or updates timestamp.",
+    "example": "touch notes.txt",
+    "category": "File Creation"
+  },
+  {
+    "command": "cat",
+    "description": "Displays the content of a file.",
+    "example": "cat file.txt",
+    "category": "Text Utilities"
+  },
+  {
+    "command": "pwd",
+    "description": "Shows the current directory path.",
+    "example": "pwd",
+    "category": "Navigation"
+  }
+]
